@@ -2,7 +2,7 @@
 
 The official website for the AAAI Jordan Student Chapter, an affiliate of the [Association for the Advancement of Artificial Intelligence](https://aaai.org). Founded 2026 at German Jordanian University, Amman, Jordan.
 
-**Live site:** *[insert deployed URL]*
+**Live site:** *[https://aaai-jo.site/]*
 
 ## Overview
 
